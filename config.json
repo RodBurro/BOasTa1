@@ -1,0 +1,9 @@
+{
+	"ip":"SonhosDistantes.aternos.me",
+	"port": 15324,
+	"name": "BOasTa",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (*#S3nh@617#*) (*#S3nh@617#*)",
+	"login-cmd":"/login (*#S3nh@617#*)"
+}
